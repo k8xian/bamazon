@@ -16,7 +16,7 @@
 
 ### Customer View
 * begin by typing **node bamazonCustomer**
-* you will see a list of all available products
+* you will see a list of all available products [demo](/screenshots/customer/1_customer_initial-list.png)
 * type the ID number of a product you would like to purchase
 * type the quantity of products you would like to purchase
 * the output will inform you of the details of your purchase including a calculated total price and end the session
