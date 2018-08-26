@@ -3,8 +3,6 @@
 
 * An Amazon-like storefront demonstrating MySQL skills learned during week 12 of Northwestern University's Full Stack Flex Coding Bootcamp
 
-**Deployment:** [k8xian.github.io/bamazon](https://k8xian.github.io/bamazon)
-
 ## Instructions
 * clone this [repository](https://github.com/k8xian/bamazon.git) to your computer
 * cd into the repo
