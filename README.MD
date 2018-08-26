@@ -19,12 +19,15 @@
 * you will see a list of all available products [demo](/screenshots/customer/1_customer_initial-list.png)
 * type the ID number of a product you would like to purchase
 * type the quantity of products you would like to purchase
-* the output will inform you of the details of your purchase including a calculated total price and end the session
+* the output will inform you of the details of your purchase including a calculated total price and end the session [demo](/screenshots/customer/2_customer_initial-purchase.png)
+* upon next initiation of a session, the stock will be updated [demo](/screenshots/customer/3_customer_updated-stock.png)
+* if there is insufficient inventory, you will be informed and asked to choose another product [demo](/screenshots/customer/4_customer_failed-purchase.png)
 
 ### Manager View
 * begin by typing **node bamazonManager**
 * you will see a menu of four options
-    * **View Products for Sale** allows you to see the current list of products, prices and inventory
-    * **View Low Inventory** highlights the products that have an inventory less than 5
-    * **Add to Inventory** allows you to update the quantity of certain inventory items
-    * **Add New Product** allows you to add a new product to the database
+    * **View Products for Sale** allows you to see the current list of products, prices and inventory [demo](/screenshots/manager/2_manager_view-all-products-including-added.png)
+    * **View Low Inventory** highlights the products that have an inventory less than 5[demo] (/screenshots/manager/5_manager_low-inventory.png)
+    * **Add to Inventory** allows you to update the quantity of certain inventory items [demo](/screenshots/manager/3_manager_add-inventory.png)
+      * upon reload you will see updated inventory [demo](/screenshots/manager/4_manager_view-products-updated-inventory)
+    * **Add New Product** allows you to add a new product to the database[demo](/screenshots/manager/1_manager_add-product.png)
