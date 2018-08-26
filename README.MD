@@ -27,7 +27,7 @@
 * begin by typing **node bamazonManager**
 * you will see a menu of four options
     * **View Products for Sale** allows you to see the current list of products, prices and inventory [demo](/screenshots/manager/2_manager_view-all-products-including-added.png)
-    * **View Low Inventory** highlights the products that have an inventory less than 5[demo] (/screenshots/manager/5_manager_low-inventory.png)
+    * **View Low Inventory** highlights the products that have an inventory less than 5 [demo](/screenshots/manager/5_manager_low-inventory.png)
     * **Add to Inventory** allows you to update the quantity of certain inventory items [demo](/screenshots/manager/3_manager_add-inventory.png)
       * upon reload you will see updated inventory [demo](/screenshots/manager/4_manager_view-products-updated-inventory)
-    * **Add New Product** allows you to add a new product to the database[demo](/screenshots/manager/1_manager_add-product.png)
+    * **Add New Product** allows you to add a new product to the database [demo](/screenshots/manager/1_manager_add-product.png)
