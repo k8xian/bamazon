@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront demonstrating MySQL skills learned during week 12 of Northwestern University's Full Stack Flex Coding Bootcamp",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k8xian/bamazon.git"
+  },
+  "author": "Kate Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k8xian/bamazon/issues"
+  },
+  "homepage": "https://github.com/k8xian/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
